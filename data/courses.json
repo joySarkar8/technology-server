@@ -4,41 +4,41 @@
         "course_name": "Arduino",
         "price": "80",
         "image_url": "https://hackster.imgix.net/uploads/attachments/1325935/_R0jWVA9Ez5.blob?auto=compress%2Cformat&w=900&h=675&fit=min",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online."
     },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "course_name": "Raspberry Pi",
         "price": "100",
         "image_url": "https://slideplayer.com/12082664/69/images/slide_1.jpg",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "The Raspberry Pi is a very cheap computer that runs Linux, but it also provides a set of GPIO (general purpose input/output) pins, allowing you to control electronic components for physical computing and explore the Internet of Things (IoT)."
     },
     {
         "id": "f69a695f037cd9484cecaea37ca71011",
         "course_name": "Python Language",
         "price": "150",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0viOfI-BGHVh15lhFq-IC-_dBVbJTckK_A&usqp=CAU",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "details": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. It was originally released in 1991. Designed to be easy as well as fun, the name Python is a nod to the British comedy group Monty Python."
     },
     {
         "id": "f69a695f037cd9484cecaea37ca71012",
         "course_name": "C Language",
         "price": "66",
         "image_url": "https://miro.medium.com/max/750/0*tc5hGik294F0OmbC",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "details": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. C is strongly associated with UNIX, as it was developed to write the UNIX operating system."
     },
     {
         "id": "11468ed61aee84de492a8b04158a22f9",
         "course_name": "Line Follower Robot",
         "price": "200",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeym5b5BBoxK8sJ9htCVZ7WQZLsqZ9VyQv4296PK9IM0VtsR5JXI4c1xiBcoR9bWAJYI&usqp=CAU",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "details": "The line follower robot is a mobile machine that can detect and follow the line drawn on the floor. Generally, the path is predefined and can be either visible like a black line on a white surface with a high contrasted color or it can be invisible like a magnetic filed."
     },
     {
         "id": "11468ed61aee84de492a8b04158a22f0",
         "course_name": "Talking Robot",
         "price": "300",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndt2L_y4-eNGTavx8PBVXQIz22xdA0mmADg&usqp=CAU",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "details": "A chatbot is just a robot chat that imitates human conversations through voice commands, text chats, or both. bi intelligence. Essentially, a chatbot is just a robot chat that imitates human conversations through voice commands, text chats, or both."
     }
 ]
